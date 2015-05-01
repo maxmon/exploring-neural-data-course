@@ -4,6 +4,6 @@ My solutions to programming exercises for Coursera's Exploring Neural Data cours
 https://www.coursera.org/course/neuraldata
 
 #uses
-All code was developed and tested on NumPy and matplotlib.
+All code was developed and tested on Python, using NumPy.
 
-http://matplotlib.org/
+http://www.numpy.org/
